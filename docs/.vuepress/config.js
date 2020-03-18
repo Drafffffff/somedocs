@@ -49,7 +49,14 @@ module.exports = {
         {
           title: " ",
           collapsable: false,
-          children: ["", "前期准备","创建博客"]
+          children: [
+            "",
+            "前期准备",
+            "创建博客",
+            "第一篇博客",
+            "部署博客",
+            "自定义主题"
+          ]
         }
       ]
     }
