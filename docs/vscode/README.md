@@ -166,7 +166,7 @@ p5.js 代码片段，装了之后能自动补全代码。
 
 5. [EloquentJavascript](https://eloquentjavascript.net/)
 
-6. [OpenProcessing](https://www.openprocessing.org/),[neort](https://neort.io/)
+6. [OpenProcessing（*需要魔法上网）](https://www.openprocessing.org/),[neort](https://neort.io/)
 
 7. [Getting Started with p5.js.pdf](https://www.lanzous.com/iakek0j)
 
