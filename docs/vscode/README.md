@@ -4,6 +4,8 @@ sidebarDepth: 2
 
 # VsCode 中的 p5.js 环境搭建
 
+<font size=5><a href="https://code.visualstudio.com/">点击这里下载VsCode</a></font>
+
 ## 安装插件
 
 vscode 之所以流行的一个非常大的原因就是他完善的插件生态系统，通过安装插件可以把 vscode 打造成一个非常强大的编辑器
@@ -164,8 +166,12 @@ p5.js 代码片段，装了之后能自动补全代码。
 
 5. [EloquentJavascript](https://eloquentjavascript.net/)
 
-6. [OpenProcessing](https://www.openprocessing.org/)
+6. [OpenProcessing](https://www.openprocessing.org/),[neort](https://neort.io/)
 
 7. [Getting Started with p5.js.pdf](https://www.lanzous.com/iakek0j)
 
 8. [The Nature of Code 代码本色](https://natureofcode.com/book/),[pdf下载](https://www.lanzous.com/iakexli)
+
+9. [Programming Design System](https://www.runemadsen.com/syllabi/programming-design-systems/),[我翻译的版本](https://drafff.art/tags/%E7%BC%96%E7%A8%8B%E8%AE%BE%E8%AE%A1%E7%B3%BB%E7%BB%9F/)
+
+10. [codesthesia](https://codesthesia.net/p5graphics/)
