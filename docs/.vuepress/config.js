@@ -59,6 +59,15 @@ module.exports = {
             "插入p5.js代码"
           ]
         }
+      ],
+      "/vscode/": [
+        {
+          title: " ",
+          collapsable: false,
+          children: [
+            "",
+          ]
+        }
       ]
     }
   },
