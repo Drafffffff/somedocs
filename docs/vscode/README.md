@@ -36,7 +36,7 @@ p5.js 代码片段，装了之后能自动补全代码。
 
 ![](http://pic.drafff.art//drafff/20200323142154.png)
 
-### 5. Visual Studio IntelliCode
+### 5. Visual Studio IntelliCode（可选）
 
 黑科技，AI 预测你下面想写的代码，并给出提示。
 
