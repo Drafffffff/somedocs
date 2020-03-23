@@ -174,6 +174,8 @@ p5.js 代码片段，装了之后能自动补全代码。
 
 8. [The Nature of Code 代码本色](https://natureofcode.com/book/),[pdf下载](https://www.lanzous.com/iakexli)
 
+10. [Generative Design](http://www.generative-gestaltung.de/2/)
+
 9. [Programming Design System](https://www.runemadsen.com/syllabi/programming-design-systems/),[我翻译的版本](https://drafff.art/tags/%E7%BC%96%E7%A8%8B%E8%AE%BE%E8%AE%A1%E7%B3%BB%E7%BB%9F/)
 
 10. [codesthesia](https://codesthesia.net/p5graphics/)
