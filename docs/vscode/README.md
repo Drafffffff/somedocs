@@ -160,6 +160,8 @@ p5.js 代码片段，装了之后能自动补全代码。
 
 2. [p5.js官网 & 文档](https://p5js.org/)
 
+3. [ml5.js](https://ml5js.github.io/ml5-examples/public/)
+
 3. [The Coding Train - Youtube (p5js官方教学 *需魔法上网)](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 4. [现代JavaScript教程](https://zh.javascript.info/)
